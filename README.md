@@ -36,7 +36,7 @@ The **TodoList App** is designed to help you organize your tasks efficiently and
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/mhRekyy/todolist-app.git
+   git clone https://github.com/mhRekyy/todolist-app-V2.git
    ```
 
 2. Navigate to the project directory:
