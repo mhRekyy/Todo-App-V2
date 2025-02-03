@@ -63,9 +63,9 @@ Check out the live version of the app [here](#).
 
 Feel free to reach out with feedback or collaboration ideas!
 
-- **Email:** [your.email@example.com](mailto\:muhammadrekyyyy@gmail.com)
-- **GitHub:** [your-username](https://github.com/mhRekyy)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/muhammad-reky-1bb650337/)
+- **Email:** [muhammadrekyyyy@gmail.com](mailto\:muhammadrekyyyy@gmail.com)
+- **GitHub:** [mhRekyy](https://github.com/mhRekyy)
+- **LinkedIn:** [Muhammad Reky](https://linkedin.com/in/muhammad-reky-1bb650337/)
 
 
 
